@@ -1,4 +1,4 @@
-package com.spring.scurity.configuration;
+package com.spring.security.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
